@@ -5,3 +5,4 @@ data/
 *.csv
 log/log.txt
 .DS_Store
+PKUCourse/
